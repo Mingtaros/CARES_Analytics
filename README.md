@@ -10,9 +10,10 @@ To train your own model with relevant data,
 - Run the train_template.ipynb that handles primarily on the data splits
 
 ## Group Members
-- Daniel James
-- Laxmi Samhita Gade
-- Leonardo
-- Tai Jing Shen
-- Woo Jia Jian
-- Yee Jin Kett
+1. Akshay Harlalka (https://github.com/Akkiosan)
+2. Daniel James (https://github.com/danieljames96)
+3. Laxmi Samhita Gade (https://github.com/GLSamhita)
+4. Leonardo (https://github.com/Mingtaros)
+5. Tai Jing Shen (https://github.com/sciencenerd880)
+6. Woo Jia Jian (https://github.com/jjwoo)
+7. Yee Jin Kett (https://github.com/jinkett99)
